@@ -14,7 +14,7 @@
 <img src=https://github.com/inorihayuri7240/LiveAndLearn/blob/main/system%20picture/favorites.png width=200/>
 </div>
 
-### 課表
+### 個人化課表
 <div align="center">
-<img src=https://github.com/inorihayuri7240/LiveAndLearn/blob/main/system%20picture/favorites.png width=200/> <img src=https://github.com/inorihayuri7240/LiveAndLearn/blob/main/system%20picture/schedule_2.png width=200/>
+<img src=https://github.com/inorihayuri7240/LiveAndLearn/blob/main/system%20picture/schedule.png width=200/> <img src=https://github.com/inorihayuri7240/LiveAndLearn/blob/main/system%20picture/schedule_2.png width=200/>
 </div>
